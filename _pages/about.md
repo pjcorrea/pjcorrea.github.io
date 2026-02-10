@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Pedro J. Correa"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
